@@ -1,2 +1,1 @@
-# Web-Development_Project
-All my Web Development Projects are showcased here
+All the links of my uiux designs are updated and uploaded here
